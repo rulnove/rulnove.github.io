@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Anas RAR
-email: mynameanasrar@gmail.com
+email: rns@gmail.com
 description: Write Code
 phone_number: XXXX - XXXX
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-google_site_verification : "p2LcVEQMJMq_5jG4fS7Bh4K4x6s3pDjV_GUrkX8d4WU" # Add your Google Site Verification
-google_analytics: "UA-133576589-1" # Add your GA Tracking Id
+google_site_verification : "#" # Add your Google Site Verification
+google_analytics: "#" # Add your GA Tracking Id
 theme_color: "#ed26d6" # Meta theme-color
 
 # Build settings
