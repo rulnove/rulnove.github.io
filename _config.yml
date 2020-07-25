@@ -18,7 +18,7 @@ email: rns@gmail.com
 description: Write Code
 phone_number: XXXX - XXXX
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "rns.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 google_site_verification : "#" # Add your Google Site Verification
 google_analytics: "#" # Add your GA Tracking Id
