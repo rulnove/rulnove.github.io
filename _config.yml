@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: RnS
-email: rns@gmail.com
+email: rul@inputekno.com
 description: Write Code
 phone_number: XXXX - XXXX
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "rns.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "rulnove.githun.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 google_site_verification : "#" # Add your Google Site Verification
 google_analytics: "#" # Add your GA Tracking Id
