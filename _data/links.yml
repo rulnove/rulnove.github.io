@@ -1,7 +1,7 @@
 list:
 - title: "work"
-  url: "lewat.inputekno.com/"
+  url: "/portofolio/"
 - title: "blog"
-  url: "www.inputekno.com/"
+  url: "/blog/"
 - title: "contact"
   url: "mailto:rul@inputekno.com"
