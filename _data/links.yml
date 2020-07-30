@@ -1,7 +1,7 @@
 list:
-- title: "work"
-  url: "/portofolio/"
-- title: "blog"
-  url: "/blog/"
+- title: "About"
+  url: "/about/"
+- title: "Blog"
+  url: "/about/blog/"
 - title: "contact"
   url: "mailto:rul@inputekno.com"
