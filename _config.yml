@@ -22,7 +22,7 @@ url: "rulnove.githun.io" # the base hostname & protocol for your site, e.g. http
 
 google_site_verification : "#" # Add your Google Site Verification
 google_analytics: "#" # Add your GA Tracking Id
-theme_color: "#ed26d6" # Meta theme-color
+theme_color: "#17223B" # Meta theme-color
 
 # Build settings
 markdown: kramdown
